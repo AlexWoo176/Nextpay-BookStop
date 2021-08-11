@@ -4,7 +4,7 @@ import nextpay.vn.bookshop.model.Book;
 import nextpay.vn.bookshop.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.BookRepository;
+import nextpay.vn.bookshop.repository.BookRepository;
 
 import java.util.ArrayList;
 import java.util.List;

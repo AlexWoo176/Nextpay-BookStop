@@ -6,7 +6,7 @@ import nextpay.vn.bookshop.service.CartItemService;
 import nextpay.vn.bookshop.service.ShoppingCartService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.ShoppingCartRepository;
+import nextpay.vn.bookshop.repository.ShoppingCartRepository;
 
 import java.math.BigDecimal;
 import java.util.List;

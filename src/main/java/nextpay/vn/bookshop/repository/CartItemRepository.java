@@ -1,4 +1,4 @@
-package repository;
+package nextpay.vn.bookshop.repository;
 
 import nextpay.vn.bookshop.model.CartItem;
 import nextpay.vn.bookshop.model.Order;

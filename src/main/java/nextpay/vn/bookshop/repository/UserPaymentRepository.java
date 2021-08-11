@@ -1,4 +1,4 @@
-package repository;
+package nextpay.vn.bookshop.repository;
 
 import nextpay.vn.bookshop.model.UserPayment;
 import org.springframework.data.repository.CrudRepository;

@@ -1,4 +1,4 @@
-package repository;
+package nextpay.vn.bookshop.repository;
 
 import nextpay.vn.bookshop.model.User;
 import nextpay.vn.bookshop.model.security.PasswordResetToken;

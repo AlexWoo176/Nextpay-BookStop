@@ -5,7 +5,7 @@ import nextpay.vn.bookshop.service.CartItemService;
 import nextpay.vn.bookshop.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.OrderRepository;
+import nextpay.vn.bookshop.repository.OrderRepository;
 
 import java.util.Calendar;
 import java.util.List;

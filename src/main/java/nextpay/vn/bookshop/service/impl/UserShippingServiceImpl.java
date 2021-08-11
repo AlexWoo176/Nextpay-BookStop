@@ -4,7 +4,7 @@ import nextpay.vn.bookshop.model.UserShipping;
 import nextpay.vn.bookshop.service.UserShippingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.UserShippingRepository;
+import nextpay.vn.bookshop.repository.UserShippingRepository;
 
 @Service
 public class UserShippingServiceImpl implements UserShippingService {

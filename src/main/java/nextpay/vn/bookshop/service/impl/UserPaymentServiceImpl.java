@@ -4,7 +4,7 @@ import nextpay.vn.bookshop.model.UserPayment;
 import nextpay.vn.bookshop.service.UserPaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.UserPaymentRepository;
+import nextpay.vn.bookshop.repository.UserPaymentRepository;
 
 @Service
 public class UserPaymentServiceImpl implements UserPaymentService {
