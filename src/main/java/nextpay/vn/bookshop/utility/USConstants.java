@@ -11,14 +11,14 @@ public class USConstants {
 
     public final static Map<String, String> mapOfUSStates = new HashMap<String, String>() {
         {
-            put("Barisal", "Barisal");
-            put("Dhaka", "Dhaka");
-            put("Chittagong", "Chittagong");
-            put("Khulna", "Khulna");
-            put("Mymensingh", "Mymensingh");
-            put("Rajshahi", "Rajshahi");
-            put("Sylhet", "Sylhet");
-            put("Rangpur", "Rangpur");
+            put("Ha Noi", "Ha Noi");
+            put("Cau Giay", "Cau Giay");
+            put("Hai Ba Trung", "Hai Ba Trung");
+            put("Hoan Kiem", "Hoan Kiem");
+            put("Ba Dinh", "Ba Dinh");
+            put("My Dinh", "My Dinh");
+            put("Long Bien", "Long Bien");
+            put("Nam Tu Liem", "Nam Tu Liem");
 
         }
     };
