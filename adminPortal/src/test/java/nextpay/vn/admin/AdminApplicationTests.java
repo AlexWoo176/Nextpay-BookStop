@@ -1,11 +1,10 @@
-package nextpay.vn.bookshop;
-
+package nextpay.vn.admin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BookshopApplicationTests {
+class AdminApplicationTests {
 
     @Test
     void contextLoads() {
